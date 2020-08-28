@@ -1,0 +1,37 @@
+.main {
+  display: block;
+  align-content: center;
+  padding: 15px;
+  background: #eee;
+}
+#title {
+  text-align: center;
+}
+#description {
+  text-align: center;
+}
+#img-div {
+  background-color: white;
+  display: flex;
+  flex-flow: column;
+}
+#image {
+  align-content: center;
+  margin: 5%;
+}
+#img-caption {
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+  margin: 50px 0;
+}
+#tribute-text {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+#wikipedia {
+  text-align: center;
+}
